@@ -1,0 +1,145 @@
+﻿<Window x:Class="MapCreatorV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MapCreatorV2"
+        xmlns:l="clr-namespace:MapCreatorV2.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <l:ViewModelMainWindow/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="8*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid Grid.Row="0" Name="Grid_Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Button Content="Reset" Command="{Binding Path=ResetMapCommand}" Grid.Row="1"/>
+            </Grid>
+            <Grid Grid.Column="2" Name="Grid_Rows">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Label Content="Rows" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Foreground="Black"/>
+                <TextBox Name ="txtRows" Grid.Column="1" Grid.Row="0" Text="{Binding RowCount}" 
+                    FontSize="18" TextAlignment="Right" IsReadOnly="True"/>
+                <Button Content = "-" FontSize ="18" Grid.Column="1" Grid.Row="1" Command="{Binding Path=RowDescreaseCommand}"/>
+                <Button Content = "+" FontSize ="18" Grid.Column="0" Grid.Row="1" Command="{Binding Path=RowIncreaseCommand}"/>
+            </Grid>
+            <Grid Grid.Column="3" Name="Grid_Columns">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Label Content="Columns" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Foreground="Black" />
+                <TextBox Name="Columns" Text="{Binding ColumnCount}" 
+                 FontSize="18" TextAlignment="Right" Grid.Column="1" Grid.Row="0" IsReadOnly="True"/>
+                <Button Content = "-" FontSize ="18" Grid.Column="1" Grid.Row="1" Command="{Binding Path=ColumnDecreaseCommand}"/>
+                <Button Content = "+" FontSize ="18" Grid.Column="0" Grid.Row="1" Command="{Binding Path=ColumnIncreaseCommand}"/>
+            </Grid>
+            
+            <Grid Grid.Column="4" Name="Grid_ExportInport" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" HorizontalContentAlignment="Stretch" VerticalAlignment="Stretch" Name="btnSaveFile" Command="{Binding SaveFileCommand}">
+                    <Button.Background>
+                        <ImageBrush Stretch="Uniform" ImageSource="{Binding SaveFileImageSource}"/>
+                    </Button.Background>
+                </Button>
+                <Button Grid.Column="1" HorizontalContentAlignment="Stretch" VerticalAlignment="Stretch" Name="btnLoadFile" Command="{Binding LoadFileCommand}">
+                    <Button.Background>
+                        <ImageBrush Stretch="Uniform" ImageSource="{Binding LoadFileImageSource}"/>
+                    </Button.Background>
+                </Button>
+            </Grid>
+            
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <ListView Name="listboxColors" ItemsSource="{Binding ColorSources}" Grid.Column="0" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" >
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="4"/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Button Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}, Path=DataContext.SetColorCommand}" CommandParameter="{Binding}">
+                            <Button.Background>
+                                <ImageBrush ImageSource="{Binding ImageSource}" />
+                            </Button.Background>
+                        </Button>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            
+            
+            <Image Source="{Binding WaitAnimatedSorce}" Grid.Column="1"  Stretch="Uniform" />
+            
+            
+                     
+            <ListView ItemsSource="{Binding Titles}" SelectionMode="Multiple" Grid.Column="1">
+                <ListView.Resources>
+                    <Style TargetType="{x:Type ListViewItem}" BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                        <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
+                        <Setter Property="Padding" Value="0" />
+                        <Setter Property="BorderThickness" Value="0.5" />
+                        <Setter Property="BorderBrush" Value="Gray" />
+                    </Style>
+                </ListView.Resources>
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid x:Name="uniformGrid" Columns="{Binding ColumnCount}" Rows="{Binding RowCount}" Width="{Binding ElementName=uniformGrid, Path=ActualHeight}" />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Image Source="{Binding ImageSource}" />
+                            <TextBlock Text="BLOCK" Background="#A0FFFFFF" VerticalAlignment="Center" TextAlignment="Center"
+                                       Visibility="{Binding IsPassable, Converter={StaticResource BoolVisibleConverter}}" />
+                            <TextBox Visibility="{Binding GoToMapID, Converter={StaticResource IntToVisibleConverter}}" Background="#A0FFFFFF" Height="20" Width="20" Text="{Binding GoToMapID, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

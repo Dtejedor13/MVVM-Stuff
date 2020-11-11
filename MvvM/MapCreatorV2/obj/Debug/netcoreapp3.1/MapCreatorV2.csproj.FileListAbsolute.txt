@@ -1,0 +1,173 @@
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.exe
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.deps.json
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.json
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.dev.json
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csprojAssemblyReference.cache
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.cache
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.lref
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.g.resources
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfoInputs.cache
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfo.cs
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.genruntimeconfig.cache
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\blue.png
+C:\Users\D.tejedor\source\repos\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CoreCompileInputs.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csprojAssemblyReference.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.g.cs
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.lref
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.dll
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.pdb
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\blue.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.exe
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.deps.json
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.json
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.dev.json
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.dll
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.pdb
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.g.resources
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfoInputs.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfo.cs
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CoreCompileInputs.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CopyComplete
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.genruntimeconfig.cache
+E:\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.baml
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\green.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\red.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\white.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\yellow.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\loadImage.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\saveImage.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\grey_blocking.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\goto.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\leaf.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\orange.png
+E:\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\pink.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\blue.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\loadImage.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\saveImage.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\goto.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\green.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\grey_blocking.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\leaf.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\orange.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\pink.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\red.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\white.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\yellow.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.exe
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.deps.json
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.json
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.dev.json
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.cache
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.lref
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.g.resources
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfo.cs
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CopyComplete
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.genruntimeconfig.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\blue.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\loadImage.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\saveImage.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\goto.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\green.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\grey_blocking.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\leaf.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\orange.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\pink.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\red.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\white.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\yellow.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.exe
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.deps.json
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.json
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.dev.json
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.lref
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.g.resources
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfo.cs
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CopyComplete
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.dll
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.pdb
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.genruntimeconfig.cache
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite1.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite2.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite3.png
+C:\Users\denni\OneDrive\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite4.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite1.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite2.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite3.png
+C:\Users\User\Desktop\WINDOWPAINTER\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite4.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\blue.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\loadImage.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\Buttons\saveImage.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\goto.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\green.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\grey_blocking.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\leaf.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\orange.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\pink.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\red.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite1.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite2.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite3.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\RotateArrowSprites\RotateArrowSprite4.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\white.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Assets\yellow.png
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.exe
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.deps.json
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.json
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.runtimeconfig.dev.json
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.dll
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\MapCreatorV2.pdb
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csprojAssemblyReference.cache
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\App.g.cs
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.cache
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2_MarkupCompile.lref
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\App.baml
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.g.resources
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfoInputs.cache
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.AssemblyInfo.cs
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CoreCompileInputs.cache
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.csproj.CopyComplete
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.dll
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.pdb
+\\rto.de\Home-Daten\Home\D.Tejedor\Eigene Dateien\GitHub\MVVM-Stuff\MvvM\MapCreatorV2\obj\Debug\netcoreapp3.1\MapCreatorV2.genruntimeconfig.cache
